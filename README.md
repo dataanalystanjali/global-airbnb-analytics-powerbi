@@ -9,20 +9,18 @@ This project is an interactive Power BI Dashboard that analyzes Airbnb's global 
 ## Dasboard Preview
 
 ## 🏠 Home Page
-
 ![Home Page](dashboard_screenshots/home_pbi_.png)
 
 ## 📊 Overview Dashboard
-
 ![Overview Dashboard](dashboard_screenshots/overview_.png)
 
 ## ⭐ Ratings Dashboard
-
 ![Ratings Dashboard](dashboard_screenshots/ratings.png)
 
 ## 📝 Reviews Dashboard
-
 ![Reviews Dashboard](dashboard_screenshots/review_.png)
+
+---
 
 ## 🎯 Business Questions & Answers
 
@@ -153,6 +151,10 @@ Over two-thirds of Airbnb hosts have completed identity verification, while only
 
 Paris and Rome maintain consistent demand throughout the year, whereas New York experiences noticeable spikes during holiday seasons.
 ![Seasonality Analysis](dashboard_screenshots/Seasonality_analysis.png)
+
+---
+## Link of my interactive dashboard
+https://app.powerbi.com/groups/me/reports/81bebfa3-c1ec-460c-b36b-a1e9dcf0d8ad/d7e5ff6a60e6d07da12c?experience=power-bi
 
 ---
 
