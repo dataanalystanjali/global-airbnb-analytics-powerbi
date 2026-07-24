@@ -22,7 +22,7 @@ This project is an interactive Power BI Dashboard that analyzes Airbnb's global 
 
 ## 📝 Reviews Dashboard
 
-![Ratings Dashboard](dashboard_screenshots/review.png)
+![Reviews Dashboard](dashboard_screenshots/review_.png)
 
 ## 🎯 Business Questions & Answers
 
