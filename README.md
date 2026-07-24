@@ -22,7 +22,7 @@ This project is an interactive Power BI Dashboard that analyzes Airbnb's global 
 
 ## 📝 Reviews Dashboard
 
-![Ratings Dashboard](dashboard_screenshots/ratings.png)
+![Ratings Dashboard](dashboard_screenshots/review.png)
 
 ## 🎯 Business Questions & Answers
 
@@ -62,8 +62,7 @@ COVID-19 impacted listing growth during 2020
 ✅ Answer
 
 Paris contributes the largest share of Airbnb listings followed by New York and Sydney. Together these cities account for nearly half of Airbnb's total listings.
-
-![Listings Growth Trend](dashboard_screenshots/listings_growth_trend.png)
+![Market Share by City](dashboard_screenshots/market_share_by_city.png)
 
 ---
 
@@ -99,7 +98,7 @@ Entire Place listings are considerably cheaper than Hotel Rooms while offering g
 ✅ Answer
 
 Mexico City and Rio de Janeiro achieved the highest ratings, whereas Hong Kong and Istanbul received comparatively lower ratings.
-![Market Share by City](dashboard_screenshots/market_share_by_city.png)
+![Listings Growth Trend](dashboard_screenshots/city_delivery_experience_1.png)
 
 ---
 
@@ -108,8 +107,8 @@ Mexico City and Rio de Janeiro achieved the highest ratings, whereas Hong Kong a
 ✅ Answer
 
 Communication consistently scores the highest, while Cleanliness and Value for Money have comparatively lower ratings.
+![Listings Growth Trend](dashboard_screenshots/city_delivery_experience_2.png)
 
-![Overall Ratings](dashboard_screenshots/overall_ratings.png)
 ---
 
 ## Q9. Does higher supply always result in better ratings?
