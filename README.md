@@ -38,6 +38,8 @@ Airbnb has built a strong global presence across multiple cities.
 - 10 Cities
 - 537.3K Reviews.
 
+![KPI Cards](dashboard_screenshots/kpi_cards.png)
+
 ---
 
 ## Q2. How has Airbnb grown over time?
@@ -51,6 +53,8 @@ Peak growth in 2015
 Growth slowed after 2016 due to regulations and host churn
 COVID-19 impacted listing growth during 2020
 
+![Listings Growth Trend](dashboard_screenshots/listings_growth_trend.png)
+
 --- 
 
 ## Q3. Which cities contribute the most to Airbnb's business?
@@ -59,6 +63,8 @@ COVID-19 impacted listing growth during 2020
 
 Paris contributes the largest share of Airbnb listings followed by New York and Sydney. Together these cities account for nearly half of Airbnb's total listings.
 
+![Listings Growth Trend](dashboard_screenshots/listings_growth_trend.png)
+
 ---
 
 ## Q4. Is Airbnb's market concentrated or evenly distributed?
@@ -66,6 +72,7 @@ Paris contributes the largest share of Airbnb listings followed by New York and 
 ✅ Answer
 
 The Pareto analysis shows that a small number of cities contribute most Airbnb listings, indicating a concentrated market.
+![Market Share by City](dashboard_screenshots/market_share_by_city.png)
 
 ---
 
@@ -74,6 +81,7 @@ The Pareto analysis shows that a small number of cities contribute most Airbnb l
 ✅ Answer
 
 Hotel Rooms are the most expensive property type, while Shared Rooms are the most affordable.
+![Property Type Pricing](dashboard_screenshots/property_type.png)
 
 ---
 
@@ -82,6 +90,7 @@ Hotel Rooms are the most expensive property type, while Shared Rooms are the mos
 ✅ Answer
 
 Entire Place listings are considerably cheaper than Hotel Rooms while offering greater privacy, making Airbnb an attractive option.
+![Property Type Pricing](dashboard_screenshots/property_type.png)
 
 ---
 
@@ -90,6 +99,7 @@ Entire Place listings are considerably cheaper than Hotel Rooms while offering g
 ✅ Answer
 
 Mexico City and Rio de Janeiro achieved the highest ratings, whereas Hong Kong and Istanbul received comparatively lower ratings.
+![Market Share by City](dashboard_screenshots/market_share_by_city.png)
 
 ---
 
@@ -99,6 +109,7 @@ Mexico City and Rio de Janeiro achieved the highest ratings, whereas Hong Kong a
 
 Communication consistently scores the highest, while Cleanliness and Value for Money have comparatively lower ratings.
 
+![Overall Ratings](dashboard_screenshots/overall_ratings.png)
 ---
 
 ## Q9. Does higher supply always result in better ratings?
@@ -107,6 +118,7 @@ Communication consistently scores the highest, while Cleanliness and Value for M
 
 No. Cities with the largest number of listings do not necessarily receive the highest customer ratings, demonstrating that customer experience matters more than supply alone.
 
+
 ---
 
 ## Q10. How often do customers leave reviews?
@@ -114,6 +126,7 @@ No. Cities with the largest number of listings do not necessarily receive the hi
 ✅ Answer
 
 Most customers leave reviews three times or fewer, while only a few highly active users contribute a very large number of reviews.
+![Customer Review Frequency](dashboard_screenshots/customer_review_frequency.png) 
 
 ---
 
@@ -122,6 +135,7 @@ Most customers leave reviews three times or fewer, while only a few highly activ
 ✅ Answer
 
 Yes. Review frequency highlights customer engagement patterns and identifies highly active reviewers and outliers.
+![Customer Review Frequency](dashboard_screenshots/customer_review_frequency.png)
 
 ---
 
@@ -130,6 +144,7 @@ Yes. Review frequency highlights customer engagement patterns and identifies hig
 ✅ Answer
 
 Over two-thirds of Airbnb hosts have completed identity verification, while only a very small percentage remain anonymous, indicating strong platform trust.
+![Host Trust Analysis](dashboard_screenshots/Host_trust.png)
 
 ---
 
@@ -138,6 +153,7 @@ Over two-thirds of Airbnb hosts have completed identity verification, while only
 ✅ Answer
 
 Paris and Rome maintain consistent demand throughout the year, whereas New York experiences noticeable spikes during holiday seasons.
+![Seasonality Analysis](dashboard_screenshots/Seasonality_analysis.png)
 
 ---
 
